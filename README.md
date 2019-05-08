@@ -1,2 +1,2 @@
 # NMT-neural-machine-translation
-code for implementing Neural Machine Translation
+keras implementation of **Neural Machine Translation** (GERMAN -> ENGLISH)

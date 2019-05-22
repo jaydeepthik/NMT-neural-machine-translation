@@ -1,2 +1,2 @@
 # NMT-neural-machine-translation
-keras implementation of  word level **Neural Machine Translation** (GERMAN -> ENGLISH) system in keras
+keras implementation of word level **seq2seq Neural Machine Translation** (GERMAN -> ENGLISH) system in keras
